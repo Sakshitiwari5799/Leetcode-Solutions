@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0290-word-pattern](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0290-word-pattern) |
 ## Stack
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
