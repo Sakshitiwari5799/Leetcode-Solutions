@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshitiwari5799/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
